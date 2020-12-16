@@ -8,8 +8,9 @@ These data enabled to address the following questions :
 The structure, results and summary of the project are shared in the corresponding file ‘BLA’ so do not hesitate to check as well.
 
 
-
 The real goal of this project was firstly to strenghten the Python skills I have learned in one month studying a ‘Python for Data Science’ course. Hence, I mostly wanted to work with data seeking, data manipulation and visualization. I was also looking for seasonnal time series dataset where I could deal with PCA, Linear Regression and forecasting.
 This project was a great way to developp my curiosity for Data Science. It taught me initiative spirit to resolve problems about programming skills and mathematical skills. 
 Lastly, this work intends to show my motivation and my way to work for any kind of recruiter about Data Science and/or Biology.
  
+ 
+If you want the main information about methods, results and interpretations don't hesitate to check the Results&Interpretation document.
