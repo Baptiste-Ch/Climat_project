@@ -5,7 +5,7 @@ These data enabled to address the following questions :
 -	Is the precipitation correlated to other climatic variables ?
 -	Has the Mean Temperature been raising since 1975 like it is said in the newpapers ?
 -	Can we predict the future Mean Temperature in France for the next 36 months ?
-The structure, results and summary of the project are shared in the corresponding file ‘BLA’ so do not hesitate to check as well.
+The structure, results and summary of the project are shared in the corresponding file ‘Results&Interpretations’ so do not hesitate to check as well.
 
 
 The aim of this work :
